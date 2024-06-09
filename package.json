@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "mobx": "^6.12.3",
     "redux": "^5.0.1"
   }
 }
